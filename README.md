@@ -1,4 +1,3 @@
-
 <!-- Rajvardhan Singh Badgujar | Profile README -->
 
 <h1 align="center">Hi there! 👋 I'm Rajvardhan Singh Badgujar</h1>
