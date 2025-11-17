@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi there! 👋 I'm Rajvardhan Singh Badgujar</h1>
 <p align="center"><b>Web Developer & UI/UX Designer (Fresher)</b> from Indore, Madhya Pradesh, India</p>
-
 ---
 
 ## 👤 About Me
