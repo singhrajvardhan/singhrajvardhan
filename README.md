@@ -3,7 +3,6 @@
 <h1 align="center">Hi there! 👋 I'm Rajvardhan Singh Badgujar</h1>
 <p align="center"><b>Web Developer & UI/UX Designer (Fresher)</b> from Indore, Madhya Pradesh, India</p>
 ---
-
 ## 👤 About Me
 
 Motivated and detail-oriented Web Developer & UI/UX Designer with a strong foundation in front-end development and user-centric design. Final-year BCA student experienced in creating responsive, fast-loading websites. Seeking opportunities to apply creative and technical skills in real-world projects.
