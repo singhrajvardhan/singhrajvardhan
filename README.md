@@ -365,12 +365,7 @@
 <!-- ANIMATED DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<!-- GITHUB STATS SECTION -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" />
-  <b style="color: #00F7FF;">GITHUB ANALYTICS</b>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" />
-</h2>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RajvardhanSingh07&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=FF6B35&text_color=c9d1d9&bg_color=0D1117&ring=00F7FF&fire=FF6B35&currStreakNum=c9d1d9" width="48%" />
