@@ -376,8 +376,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajvardhanSingh07&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0D1117" width="40%" />
 </p>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- CONNECT SECTION -->
 <h2 align="center">
