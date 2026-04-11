@@ -400,10 +400,7 @@
   </a>
 </p>
 
-<!-- VISITOR COUNTER -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/RajvardhanSingh07/count.svg" />
-  <br/>
+
   <i>🌟 Thanks for visiting! 🌟</i>
 </p>
 
