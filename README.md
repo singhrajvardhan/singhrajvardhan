@@ -367,15 +367,6 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajvardhanSingh07&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=FF6B35&text_color=c9d1d9&bg_color=0D1117&ring=00F7FF&fire=FF6B35&currStreakNum=c9d1d9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajvardhanSingh07&hide_border=true&stroke=00F7FF&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=c9d1d9" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajvardhanSingh07&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0D1117" width="40%" />
-</p>
-
 
 <!-- CONNECT SECTION -->
 <h2 align="center">
